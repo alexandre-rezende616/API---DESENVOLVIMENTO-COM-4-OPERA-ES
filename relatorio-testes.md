@@ -35,7 +35,7 @@
 - Body (JSON):
   ```json
   {
-    "nome": "alexandre",
+    "nome": "alexandre torres",
     "email": "xandirezende@gmail.com"
   }
   ```
